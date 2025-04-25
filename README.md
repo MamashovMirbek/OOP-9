@@ -20,3 +20,8 @@ This project demonstrates the concept of abstraction in Python using an abstract
 1. Clone the repository:
    ```bash
    git clone https://github.com/MamashovMirbek/OOP-9.git
+   
+## Screenshots
+
+![Screenshot (321)](https://github.com/user-attachments/assets/cd5e694d-3b75-404e-b1cd-0d0d6147b3ce)
+![Screenshot (322)](https://github.com/user-attachments/assets/0b4cf5ef-fdec-450a-a02b-1a57d03f7b61)
